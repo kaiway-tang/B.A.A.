@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bscAtk3
+  - bscAtk1
+  - bscAtk2
+  - enemy
+  - nmyAtk
+  - aegis
+  - arrowProj
+  - stone
+  - hitbox
+  - bumpNmy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - ignorePlayer
+  - ally
+  - america
+  - enemy
+  - aegis
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 757935485
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: blackout
+    uniqueID: 165798959
+    locked: 0
